@@ -35,7 +35,7 @@ struct CreateWandView: View {
             let _ = logger.debug("Is wand ready: \(vm.isWandReady)")
             Button {
                 logger.debug("Requesting next cat")
-                self.isMagicalCatRevealed = true
+                withAnimation { self.isMagicalCatRevealed = true }
                 cats.nextCat()
             } label: {
                 Text(isMagicalCatRevealed ? "More magical cats!" : "Start casting!")
