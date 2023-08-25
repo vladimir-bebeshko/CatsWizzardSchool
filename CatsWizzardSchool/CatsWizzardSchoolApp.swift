@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct intro_wizardyApp: App {
+struct CatsWizzardSchoolApp: App {
     var body: some Scene {
         WindowGroup {
             CreateWizzardPassView()
