@@ -31,6 +31,7 @@ As about Combine itself, I tried and used the following features:
 * ObservableObjerct
 * assign
 * sink
+* adding custom operators to Publisher
 * etc.
 
 Additionally, I tried basic SwiftUI views:
