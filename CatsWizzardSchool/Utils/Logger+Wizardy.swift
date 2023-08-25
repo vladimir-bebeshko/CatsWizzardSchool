@@ -1,6 +1,6 @@
 //
 //  Logger+Wizardy.swift
-//  intro-wizardy
+//  CatsWizzardSchool
 //
 //  Created by Vladimir Bebeshko on 8/23/23.
 //

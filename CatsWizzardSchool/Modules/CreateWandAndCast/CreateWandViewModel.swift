@@ -1,6 +1,6 @@
 //
 //  CreateWandViewModel.swift
-//  intro-wizardy
+//  CatsWizzardSchool
 //
 //  Created by Vladimir Bebeshko on 8/24/23.
 //

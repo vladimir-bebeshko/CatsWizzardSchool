@@ -1,6 +1,6 @@
 //
 //  CreatePassViewModel.swift
-//  intro-wizardy
+//  CatsWizzardSchool
 //
 //  Created by Vladimir Bebeshko on 8/22/23.
 //
